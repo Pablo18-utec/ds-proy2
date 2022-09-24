@@ -13,3 +13,5 @@ domingo
 estaciones
 primavera
 verano
+otoño 
+invierno
