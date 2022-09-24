@@ -9,3 +9,9 @@ jueves
 viernes
 sabado
 domingo
+
+estaciones
+primavera
+verano
+otoño 
+invierno
